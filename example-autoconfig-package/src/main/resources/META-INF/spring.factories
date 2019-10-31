@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.objectway.stage.examples.autoconfig.cpackage.PackageAutoConfiguration
