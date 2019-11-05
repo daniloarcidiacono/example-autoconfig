@@ -16,7 +16,9 @@
 
     <modules>
         <module>example-autoconfig-boot</module>
-        <module>example-autoconfig-package</module>
+        <module>example-autoconfig-autoconfigure</module>
+        <module>example-autoconfig-starter</module>
+        <module>example-autoconfig-library</module>
     </modules>
 
     <dependencyManagement>
