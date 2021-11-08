@@ -32,6 +32,13 @@
         </dependency>
 
         <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure-processor</artifactId>
+            <version>${spring-boot.version}</version>
+            <optional>true</optional>
+        </dependency>
+
+        <dependency>
             <groupId>com.objectway.stage.examples.autoconfig</groupId>
             <artifactId>example-autoconfig-library</artifactId>
             <version>${project.version}</version>
