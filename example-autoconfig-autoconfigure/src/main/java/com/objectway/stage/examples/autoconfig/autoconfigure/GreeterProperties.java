@@ -4,7 +4,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 @ConfigurationProperties(prefix = "example.greeter")
 public class GreeterProperties {
-
     private String userName;
     private String morningMessage = "Good Morning";
     private String afternoonMessage = "Good Afternoon";
@@ -50,5 +49,4 @@ public class GreeterProperties {
     public void setNightMessage(String nightMessage) {
         this.nightMessage = nightMessage;
     }
-
 }

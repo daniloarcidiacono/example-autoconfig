@@ -5,7 +5,7 @@ spring:
 example:
   greeter:
     userName: Smith
-    afternoonMessage: Woha Evening
-    eveningMessage: Woha Afternoon
+    afternoonMessage: Delightful Evening
+    eveningMessage: Delightful Afternoon
 
 debug: true
